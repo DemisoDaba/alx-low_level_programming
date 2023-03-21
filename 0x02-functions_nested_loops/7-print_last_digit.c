@@ -2,7 +2,7 @@
 
 /**
  * print_last_digit - a function that prints the last digit of a number
- * @zack: number's last digit result
+ * @Last: number's last digit result
  * Return: value of the last digit
  */
 int print_last_digit(int Last)
