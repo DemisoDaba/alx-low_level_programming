@@ -2,7 +2,7 @@
 
 # low Level Programming - C Programming
 
-_In this repository you will find different folders which contain C-Programming executable files, In order to have devops exercises for beginner._
+_In this repository you will find different folders which contain C-Programming executable files, to have some hint for the beginners._
 
 ## How to execute the files?
 
