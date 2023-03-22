@@ -20,3 +20,5 @@ You must first write to your Terminal `./` Following the name of the file you wa
 *|[README.md](./README.md)| Readme file or description about the **folders** and __files__
 1|[0x00-hello_world](./0x00-hello_world)|This folder contans executable files of c-programming.
 2|[0x01-variables_if_else_while](./0x01-variables_if_else_while)|This folder containn conditional c...
+3|[0x02-functions_nested_loops](./0x02-functions_nested_loops)|This folder contains nested loop function
+4|[0x03-debugging](./0x03-debugging)|This folder contains error solving codes
