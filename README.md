@@ -24,3 +24,8 @@ You must first write to your Terminal `./` Following the name of the file you wa
 4|[0x03-debugging](./0x03-debugging)|This folder contains error solving codes
 5|[More_functions---](./0x04-more_functions_nested_loops)|This folder contains all about more loops
 5|[pointers_arrays_strings](./0x05-pointers_arrays_strings)| This is all about arry, strings and pointers.
+
+
+
+
+##### © 2023 **Demiso Daba - All rights reserved**
