@@ -27,6 +27,7 @@ You must first write to your Terminal `./` Following the name of the file you wa
 7|[more..pointers_arrays_strings](./0x06-pointers_arrays_strings)| This contains more about pointers, strings ..
 8|[more + pointers_arrays_strings](./0x07-pointers_arrays_strings)|This contains more about pointers, strings ..
 9|[0x08-recursion](./0x08-recursion)|This contains Iterative programmin
+10|[A-argc_argv](./0x0A-argc_argv)| This folder contains arguments
 
 
 
