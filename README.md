@@ -28,6 +28,8 @@ You must first write to your Terminal `./` Following the name of the file you wa
 8|[more + pointers_arrays_strings](./0x07-pointers_arrays_strings)|This contains more about pointers, strings ..
 9|[0x08-recursion](./0x08-recursion)|This contains Iterative programmin
 10|[A-argc_argv](./0x0A-argc_argv)| This folder contains arguments
+11|[0x0B-malloc_free](./0x0B-malloc_free)| This folder contains malloc files
+12|[0x0C-more_malloc_free](./0x0C-more_malloc_free)|This folder contains more malloc files
 
 
 
