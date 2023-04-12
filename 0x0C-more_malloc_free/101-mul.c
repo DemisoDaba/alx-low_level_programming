@@ -1,4 +1,7 @@
 #include "main.h"
+#include <stdlib.h>
+#include <stdio.h>
+#include <ctype.h>
 /**
  * isNumber - checks if a string is a number
  * @s: string to check
