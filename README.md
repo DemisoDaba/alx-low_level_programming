@@ -30,6 +30,9 @@ You must first write to your Terminal `./` Following the name of the file you wa
 10|[A-argc_argv](./0x0A-argc_argv)| This folder contains arguments
 11|[0x0B-malloc_free](./0x0B-malloc_free)| This folder contains malloc files
 12|[0x0C-more_malloc_free](./0x0C-more_malloc_free)|This folder contains more malloc files
+13|[0x0D-preprocessor](./0x0D-preprocessor)|This Folder contains pre-processor for c file
+14|[0x0E-structures_typedef](./0x0E-structures_typedef)|This folder contains about data structures
+15|[0x0F-function_pointers](./0x0F-function_pointers)| This folder contains what function pointer exactly hold
 
 
 
