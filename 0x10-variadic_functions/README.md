@@ -1,1 +1,1 @@
-This is readme
+Variadic functions
