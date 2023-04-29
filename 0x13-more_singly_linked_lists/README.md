@@ -1,1 +1,1 @@
-This folder contains more linked functions
+This folder contains more linked function
