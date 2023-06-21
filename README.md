@@ -38,6 +38,9 @@ You must first write to your Terminal `./` Following the name of the file you wa
 18|[0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists)|This folder contans linked listcodes (more linked)
 19|[0x14-bit_manipulation](./0x14-bit_manipulation)|This folder contans bit manipulation
 20|[0x15-file_io](./0x15-file_io)|This folder contains, the files code to open() read() write() Functions
+21|[0x17-doubly_linked_lists](./0x17-doubly_linked_lists)| This folder contains doubly linked lists
+22|[0x18-dynamic_libraries](./0x18-dynamic_libraries)| This is all about dynamic libraries
+
 
 
 ##### © 2023 **Demiso Daba - All rights reserved**
