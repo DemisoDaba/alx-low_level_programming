@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_school
+ * print_school - Prints the school pattern
  *
  * Return: Nothing
  */
