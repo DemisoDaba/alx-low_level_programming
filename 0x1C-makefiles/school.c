@@ -3,7 +3,6 @@
 /**
  * print_school - Prints the school pattern
  *
- *
  * Return: Nothing
  */
 void print_school(void)
